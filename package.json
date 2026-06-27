@@ -1,0 +1,13 @@
+{
+  "name": "openai-imagegen-skill",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Codex skill for OpenAI-compatible image generation and editing with user-provided endpoint and key.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "openai-imagegen-skill": "bin/install.js"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI ImageGen"
+  short_description: "Generate and edit images through a custom OpenAI-compatible Images API."
+  default_prompt: "Use openai-imagegen to generate an image from this prompt:"
