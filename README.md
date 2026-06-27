@@ -2,12 +2,16 @@
 
 Codex skill for image generation and image editing through an OpenAI-compatible Images API. It is designed for custom gateways, proxies, and self-managed endpoints.
 
+## Customer Guide
+
+For detailed macOS and Windows setup instructions, see [CUSTOMER_GUIDE.md](CUSTOMER_GUIDE.md).
+
 ## Install
 
 ### From a cloned repository
 
 ```bash
-git clone https://github.com/YOUR_ORG/openai-imagegen-skill.git
+git clone https://github.com/yang1395592280/openai-imagegen-skill.git
 cd openai-imagegen-skill
 ./install.sh
 ```
@@ -27,7 +31,7 @@ Replace an existing installation:
 ### With npm from GitHub
 
 ```bash
-npm install -g github:YOUR_ORG/openai-imagegen-skill
+npm install -g github:yang1395592280/openai-imagegen-skill
 openai-imagegen-skill
 ```
 
